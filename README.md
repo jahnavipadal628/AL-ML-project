@@ -36,5 +36,8 @@ TMDB 5000 Movies Dataset
 - Deployment
 - Search functionality
 
+## 🔗 Live Demo
+https://al-ml-project-kvdizsu99x6rrspcembzvk.streamlit.app/
+
 ## Author
 First-year AI student at IIT Kharagpur
